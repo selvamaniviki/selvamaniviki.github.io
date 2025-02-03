@@ -791,6 +791,12 @@ section .container {
   overflow: hidden;
   z-index: 1;
   background: rgba(0, 0, 0, 0.6);
+  width: 350px;
+  height: 200px;
+  align-self: center;
+  display: flex;
+  background-color: antiquewhite;
+  justify-content: center;
 }
 
 .portfolio .portfolio-wrap::before {
